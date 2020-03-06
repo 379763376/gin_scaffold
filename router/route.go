@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/e421083458/gin_scaffold/controller"
-	"github.com/e421083458/gin_scaffold/middleware"
+	"gin_scaffold/controller"
+	"gin_scaffold/middleware"
 	"github.com/gin-gonic/contrib/sessions"
 	"github.com/gin-gonic/gin"
 )

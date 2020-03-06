@@ -1,8 +1,8 @@
 package public
 
 import (
-	"github.com/e421083458/golang_common/lib"
-	"github.com/e421083458/gorm"
+	"github.com/379763376/gcommon/lib"
+	"github.com/jinzhu/gorm"
 )
 
 var (

@@ -7,7 +7,7 @@ Gin best practices, gin development scaffolding, too late to explain, get on the
 2. 接入validator.v9，支持多语言错误信息提示及自定义错误提示。
 3. 借助golang_common，支持了多配置环境及log/redis/mysql/http.client
 
-项目地址：https://github.com/e421083458/gin_scaffold
+项目地址：https://gin_scaffold
 ### 现在开始
 - 安装软件依赖
 go mod使用请查阅：

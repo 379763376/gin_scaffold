@@ -2,11 +2,11 @@ package controller
 
 import (
 	"encoding/json"
-	"github.com/e421083458/gin_scaffold/dao"
-	"github.com/e421083458/gin_scaffold/dto"
-	"github.com/e421083458/gin_scaffold/middleware"
-	"github.com/e421083458/gin_scaffold/public"
-	"github.com/e421083458/golang_common/lib"
+	"gin_scaffold/dao"
+	"gin_scaffold/dto"
+	"gin_scaffold/middleware"
+	"gin_scaffold/public"
+	"github.com/379763376/gcommon/lib"
 	"github.com/garyburd/redigo/redis"
 	"github.com/gin-gonic/gin"
 )

@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/e421083458/gin_scaffold/public"
+	"gin_scaffold/public"
 	"github.com/gin-gonic/gin"
 	en_translations "gopkg.in/go-playground/validator.v9/translations/en"
 	zh_translations "gopkg.in/go-playground/validator.v9/translations/zh"

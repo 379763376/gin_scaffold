@@ -3,8 +3,8 @@ package middleware
 import (
 	"errors"
 	"fmt"
-	"github.com/e421083458/gin_scaffold/public"
-	"github.com/e421083458/golang_common/lib"
+	"gin_scaffold/public"
+	"github.com/379763376/gcommon/lib"
 	"github.com/gin-gonic/gin"
 	"runtime/debug"
 )
