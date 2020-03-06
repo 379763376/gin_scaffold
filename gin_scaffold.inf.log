@@ -1,0 +1,2 @@
+[INFO][2020-03-04T23:32:07.113][log.go:58] _com_request_in||uri=/demo/index||method=GET||body=||from=127.0.0.1||traceid=c0a8011a5e5fc9f74d54109c658221b0||args=map[]||cspanid=||spanid=9ef7c8ed78629a0f
+[INFO][2020-03-04T23:32:07.113][log.go:58] _com_request_out||spanid=9ef7c8ed78629a0f||method=GET||from=127.0.0.1||proc_time=0.000790648||traceid=c0a8011a5e5fc9f74d54109c658221b0||cspanid=||uri=/demo/index||args=map[]||response={\"errno\":0,\"errmsg\":\"\",\"data\":\"\",\"trace_id\":\"c0a8011a5e5fc9f74d54109c658221b0\"}
